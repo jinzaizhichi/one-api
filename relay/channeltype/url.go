@@ -42,6 +42,10 @@ var ChannelBaseURLs = []string{
 	"https://api-free.deepl.com",                // 38
 	"https://api.together.xyz",                  // 39
 	"https://ark.cn-beijing.volces.com",         // 40
+	"https://api.novita.ai/v3/openai",           // 41
+	"",                                          // 42
+	"",                                          // 43
+	"https://api.siliconflow.cn",                 // 44
 }
 
 func init() {
